@@ -1,4 +1,4 @@
-alert ("Created by Prasant. \n \n Welcome to 2020 zoom online class. I couldn't make the speaker button functional, because I have not learnt JavaScript yet. If any error occurs, go back and reload the page again.")
+alert ("Created by Prasant. \n \n Welcome to 2020 zoom online class. I hope, you will enjoy the mathematics class.If any error occurs, go back and reload the page again..")
 let name = prompt ("Please enter your name!")
 
 function myFunction1(x) {
@@ -10,7 +10,7 @@ function myFunction2(x) {
 }
 
 function myFunction3(x) {
-  x.classList.toggle("fa-volume-mute");
+  x.classList.toggle("fa-volume-up");
 }
 
 
