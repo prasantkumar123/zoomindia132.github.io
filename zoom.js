@@ -1,5 +1,5 @@
-alert ("Created by Prasant. \n \n Welcome to 2020 zoom online class. I hope, you will enjoy the mathematics class.If any error occurs, go back and reload the page again..")
-let name = prompt ("Please enter your name!")
+
+
 
 function myFunction1(x) {
   x.classList.toggle("fa-microphone-slash");
@@ -28,11 +28,11 @@ function share() {
 }
 
 function participants() {
-  confirm(" 1. Prasant (host) \n 2. Rebel (co-host) \n 3. " + name + " (me) \n 4. Chhota Bheem \n 5. Doraemon \n 6. Motu \n 7. Patlu");
+  confirm(" 1. Prasant (host) \n 2. Rebel (co-host) \n 3. Harry potter (me) \n 4. Chhota Bheem \n 5. Doraemon \n 6. Motu \n 7. Patlu");
 }
 
 function more() {
-  confirm("I am very sorry " +name+ ". Host has disabled this function.");
+  confirm("Host has disabled this function.");
 }
 
 
