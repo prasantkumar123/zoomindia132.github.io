@@ -15,7 +15,8 @@ function myFunction3(x) {
 
 
 function leave() {
-  confirm("Leave the meeting! ");
+  alert("Leave the meeting! ");
+  window.history.back();
 }
 
 function zoom() {
